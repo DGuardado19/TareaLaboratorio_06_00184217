@@ -97,7 +97,7 @@ function menu() {
                 menu();
                 break;
             case 6:
-                bandera = false;
+                console.log("adios")
                 break;
             default:
                 console.log("NO tengo esta opcion wey, sorry");
